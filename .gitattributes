@@ -1,0 +1,2 @@
+# all text files should have linux style line endings
+*.* text eol=lf

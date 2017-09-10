@@ -1,0 +1,16 @@
+{
+  "server": {
+    "host": "127.0.0.1",
+    "port": 33333
+  },
+  "client": {
+    "host": "127.0.0.1",
+    "port": 12345
+  },
+  "serial": {
+    "device": "COM4",
+    "baudRate": 115200
+  },
+  "testMessages": 10,
+  "delimiter": "="
+}
